@@ -1,0 +1,55 @@
+commodity,year,high_potential_kes,asal_kes,asal_premium_pct
+Beans (rosecoco),2018,99.95,128.85,28.9
+Beans (rosecoco),2019,110.86,147.05,32.6
+Beans (rosecoco),2020,110.79,147.03,32.7
+Beans (rosecoco),2021,115.69,154.18,33.3
+Beans (rosecoco),2022,158.45,245.46,54.9
+Beans (rosecoco),2023,157.79,236.78,50.1
+Beans (rosecoco),2024,136.92,172.27,25.8
+Beans (rosecoco),2025,144.86,183.84,26.9
+Beans (rosecoco),2026,158.53,209.69,32.3
+Green grams,2018,109.43,137.65,25.8
+Green grams,2019,126.48,164.35,29.9
+Green grams,2020,123.58,157.11,27.1
+Green grams,2021,132.01,170.37,29.1
+Green grams,2022,161.06,239.14,48.5
+Green grams,2023,170.3,251.41,47.6
+Green grams,2024,142.0,176.86,24.6
+Green grams,2025,160.66,203.88,26.9
+Green grams,2026,175.02,226.56,29.5
+Maize (white),2018,38.77,49.64,28.1
+Maize (white),2019,44.94,61.74,37.4
+Maize (white),2020,45.22,58.05,28.4
+Maize (white),2021,48.49,64.27,32.5
+Maize (white),2022,68.1,111.34,63.5
+Maize (white),2023,68.08,106.6,56.6
+Maize (white),2024,50.3,62.13,23.5
+Maize (white),2025,55.45,70.99,28.0
+Maize (white),2026,61.34,84.14,37.2
+"Milk (cow, fresh)",2018,52.28,69.06,32.1
+"Milk (cow, fresh)",2019,56.9,77.37,36.0
+"Milk (cow, fresh)",2020,58.02,75.5,30.1
+"Milk (cow, fresh)",2021,64.14,82.21,28.2
+"Milk (cow, fresh)",2022,81.56,120.86,48.2
+"Milk (cow, fresh)",2023,82.32,118.69,44.2
+"Milk (cow, fresh)",2024,69.56,86.76,24.7
+"Milk (cow, fresh)",2025,74.25,93.36,25.7
+"Milk (cow, fresh)",2026,81.65,109.3,33.9
+Potatoes (Irish),2018,39.62,55.02,38.9
+Potatoes (Irish),2019,45.84,62.98,37.4
+Potatoes (Irish),2020,48.57,64.76,33.3
+Potatoes (Irish),2021,50.92,70.39,38.2
+Potatoes (Irish),2022,61.26,97.27,58.8
+Potatoes (Irish),2023,64.79,97.15,50.0
+Potatoes (Irish),2024,53.38,76.87,44.0
+Potatoes (Irish),2025,59.83,84.68,41.5
+Potatoes (Irish),2026,68.79,102.15,48.5
+Sorghum,2018,54.49,70.97,30.2
+Sorghum,2019,58.68,80.29,36.8
+Sorghum,2020,62.52,83.46,33.5
+Sorghum,2021,63.63,83.22,30.8
+Sorghum,2022,88.32,137.45,55.6
+Sorghum,2023,84.44,125.79,49.0
+Sorghum,2024,70.63,90.28,27.8
+Sorghum,2025,76.54,99.9,30.5
+Sorghum,2026,88.94,117.49,32.1

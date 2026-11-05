@@ -1,0 +1,7 @@
+commodity,n_changes,mean_mom_pct,volatility_pct,largest_rise_pct,largest_fall_pct
+Potatoes (Irish),1196,0.36,14.7,46.4,-51.7
+Maize (white),1181,0.44,7.77,28.7,-42.2
+Sorghum,1199,0.45,7.53,32.6,-29.4
+Beans (rosecoco),1198,0.45,6.77,23.7,-23.7
+Green grams,1195,0.48,6.13,17.9,-23.9
+"Milk (cow, fresh)",1193,0.37,5.09,20.8,-15.0

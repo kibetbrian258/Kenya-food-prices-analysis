@@ -1,0 +1,69 @@
+commodity,market,zone,price_now_kes,price_year_ago_kes,yoy_pct,cheapest_rank
+Beans (rosecoco),Eldoret,High-potential,130.13,124.64,4.4,1
+Beans (rosecoco),Nakuru,High-potential,143.72,137.77,4.3,2
+Beans (rosecoco),Kakamega,High-potential,145.32,153.04,-5.0,3
+Beans (rosecoco),Karatina,High-potential,153.98,140.04,10.0,4
+Beans (rosecoco),Nairobi,High-potential,155.44,163.43,-4.9,5
+Beans (rosecoco),Kisumu,High-potential,158.95,156.68,1.4,6
+Beans (rosecoco),Kitui,ASAL,169.49,172.86,-1.9,7
+Beans (rosecoco),Mombasa,High-potential,172.16,153.08,12.5,8
+Beans (rosecoco),Mandera,ASAL,206.17,217.61,-5.3,9
+Beans (rosecoco),Lodwar,ASAL,212.89,200.9,6.0,10
+Beans (rosecoco),Marsabit,ASAL,219.35,,,11
+Green grams,Eldoret,High-potential,135.62,142.31,-4.7,1
+Green grams,Nakuru,High-potential,153.04,141.71,8.0,2
+Green grams,Kitui,ASAL,155.26,141.32,9.9,3
+Green grams,Karatina,High-potential,165.69,154.96,6.9,4
+Green grams,Kisumu,High-potential,176.54,161.64,9.2,5
+Green grams,Kakamega,High-potential,176.76,161.18,9.7,6
+Green grams,Nairobi,High-potential,178.51,159.41,12.0,7
+Green grams,Mombasa,High-potential,178.9,170.85,4.7,8
+Green grams,Lodwar,ASAL,230.89,215.32,7.2,9
+Green grams,Garissa,ASAL,235.64,196.88,19.7,10
+Green grams,Marsabit,ASAL,240.74,217.98,10.4,11
+Green grams,Mandera,ASAL,261.05,210.49,24.0,12
+Maize (white),Eldoret,High-potential,56.48,51.92,8.8,1
+Maize (white),Nakuru,High-potential,56.68,52.2,8.6,2
+Maize (white),Kakamega,High-potential,59.64,58.86,1.3,3
+Maize (white),Nairobi,High-potential,59.77,55.83,7.1,4
+Maize (white),Karatina,High-potential,62.02,53.13,16.7,5
+Maize (white),Kisumu,High-potential,64.49,57.84,11.5,6
+Maize (white),Garissa,ASAL,71.47,64.42,10.9,7
+Maize (white),Mombasa,High-potential,71.72,63.82,12.4,8
+Maize (white),Kitui,ASAL,77.75,67.23,15.6,9
+Maize (white),Mandera,ASAL,90.3,75.64,19.4,10
+"Milk (cow, fresh)",Eldoret,High-potential,63.77,58.64,8.7,1
+"Milk (cow, fresh)",Karatina,High-potential,77.14,70.72,9.1,2
+"Milk (cow, fresh)",Kakamega,High-potential,82.2,78.09,5.3,3
+"Milk (cow, fresh)",Nairobi,High-potential,83.45,78.79,5.9,4
+"Milk (cow, fresh)",Kisumu,High-potential,89.1,81.06,9.9,5
+"Milk (cow, fresh)",Mombasa,High-potential,92.86,87.3,6.4,6
+"Milk (cow, fresh)",Kitui,ASAL,93.64,83.78,11.8,7
+"Milk (cow, fresh)",Garissa,ASAL,104.94,97.74,7.4,8
+"Milk (cow, fresh)",Marsabit,ASAL,109.72,92.29,18.9,9
+"Milk (cow, fresh)",Mandera,ASAL,111.49,95.71,16.5,10
+"Milk (cow, fresh)",Lodwar,ASAL,120.46,104.93,14.8,11
+Potatoes (Irish),Karatina,High-potential,52.93,42.49,24.6,1
+Potatoes (Irish),Nakuru,High-potential,53.4,52.26,2.2,2
+Potatoes (Irish),Eldoret,High-potential,53.71,47.37,13.4,3
+Potatoes (Irish),Kitui,ASAL,63.98,56.22,13.8,4
+Potatoes (Irish),Kakamega,High-potential,70.59,51.37,37.4,5
+Potatoes (Irish),Kisumu,High-potential,71.47,53.01,34.8,6
+Potatoes (Irish),Nairobi,High-potential,76.36,64.96,17.5,7
+Potatoes (Irish),Lodwar,ASAL,79.94,73.61,8.6,8
+Potatoes (Irish),Garissa,ASAL,83.07,55.06,50.9,9
+Potatoes (Irish),Mombasa,High-potential,84.0,64.64,30.0,10
+Potatoes (Irish),Mandera,ASAL,88.69,91.8,-3.4,11
+Potatoes (Irish),Marsabit,ASAL,89.77,69.7,28.8,12
+Sorghum,Nakuru,High-potential,77.44,72.01,7.5,1
+Sorghum,Eldoret,High-potential,78.48,72.14,8.8,2
+Sorghum,Karatina,High-potential,81.1,77.87,4.1,3
+Sorghum,Kakamega,High-potential,90.96,80.78,12.6,4
+Sorghum,Nairobi,High-potential,91.09,70.55,29.1,5
+Sorghum,Kitui,ASAL,92.6,,,6
+Sorghum,Kisumu,High-potential,97.58,79.34,23.0,7
+Sorghum,Mombasa,High-potential,101.19,85.01,19.0,8
+Sorghum,Mandera,ASAL,111.08,103.23,7.6,9
+Sorghum,Lodwar,ASAL,120.14,99.57,20.7,10
+Sorghum,Garissa,ASAL,121.55,90.71,34.0,11
+Sorghum,Marsabit,ASAL,121.82,111.76,9.0,12

@@ -1,0 +1,73 @@
+commodity,month_num,seasonal_index
+Beans (rosecoco),1,93.1
+Beans (rosecoco),2,97.1
+Beans (rosecoco),3,101.9
+Beans (rosecoco),4,107.1
+Beans (rosecoco),5,104.8
+Beans (rosecoco),6,100.5
+Beans (rosecoco),7,96.4
+Beans (rosecoco),8,98.2
+Beans (rosecoco),9,103.2
+Beans (rosecoco),10,104.5
+Beans (rosecoco),11,96.2
+Beans (rosecoco),12,96.8
+Green grams,1,92.4
+Green grams,2,95.1
+Green grams,3,101.1
+Green grams,4,105.0
+Green grams,5,106.3
+Green grams,6,105.9
+Green grams,7,103.3
+Green grams,8,101.3
+Green grams,9,97.7
+Green grams,10,96.8
+Green grams,11,96.5
+Green grams,12,99.1
+Maize (white),1,95.9
+Maize (white),2,97.5
+Maize (white),3,101.7
+Maize (white),4,106.8
+Maize (white),5,112.3
+Maize (white),6,110.3
+Maize (white),7,104.8
+Maize (white),8,99.1
+Maize (white),9,93.9
+Maize (white),10,92.7
+Maize (white),11,90.2
+Maize (white),12,94.8
+"Milk (cow, fresh)",1,102.4
+"Milk (cow, fresh)",2,105.3
+"Milk (cow, fresh)",3,105.4
+"Milk (cow, fresh)",4,103.2
+"Milk (cow, fresh)",5,97.4
+"Milk (cow, fresh)",6,96.2
+"Milk (cow, fresh)",7,96.9
+"Milk (cow, fresh)",8,97.5
+"Milk (cow, fresh)",9,97.6
+"Milk (cow, fresh)",10,98.0
+"Milk (cow, fresh)",11,97.5
+"Milk (cow, fresh)",12,102.1
+Potatoes (Irish),1,98.0
+Potatoes (Irish),2,106.1
+Potatoes (Irish),3,109.5
+Potatoes (Irish),4,110.6
+Potatoes (Irish),5,106.8
+Potatoes (Irish),6,101.9
+Potatoes (Irish),7,91.5
+Potatoes (Irish),8,89.9
+Potatoes (Irish),9,94.7
+Potatoes (Irish),10,102.6
+Potatoes (Irish),11,96.0
+Potatoes (Irish),12,93.1
+Sorghum,1,97.1
+Sorghum,2,101.2
+Sorghum,3,106.3
+Sorghum,4,106.1
+Sorghum,5,106.7
+Sorghum,6,106.8
+Sorghum,7,102.8
+Sorghum,8,97.6
+Sorghum,9,92.5
+Sorghum,10,94.1
+Sorghum,11,92.1
+Sorghum,12,96.9

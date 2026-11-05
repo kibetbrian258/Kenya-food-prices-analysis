@@ -1,0 +1,13 @@
+market,county,zone,observations,months_reported,months_in_period,coverage_pct
+Garissa,Garissa,ASAL,577,105,105,91.6
+Lodwar,Turkana,ASAL,580,105,105,92.1
+Marsabit,Marsabit,ASAL,580,105,105,92.1
+Mandera,Mandera,ASAL,581,102,105,92.2
+Kakamega,Kakamega,High-potential,609,105,105,96.7
+Nairobi,Nairobi,High-potential,713,105,105,97.0
+Kisumu,Kisumu,High-potential,716,105,105,97.4
+Eldoret,Uasin Gishu,High-potential,717,105,105,97.6
+Karatina,Nyeri,High-potential,615,105,105,97.6
+Kitui,Kitui,ASAL,616,105,105,97.8
+Mombasa,Mombasa,High-potential,720,105,105,98.0
+Nakuru,Nakuru,High-potential,721,105,105,98.1
